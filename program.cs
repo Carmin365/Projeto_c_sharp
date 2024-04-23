@@ -29,7 +29,7 @@ class CsharpApp
     static void Main()
     {
         figura1 fig_um = figura1();
-        fig_um.teste();
+        fig_um.teste1();
         Console.ReadLine();
         }
     }
